@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[zapisi]]></title>
   <link href="http://jolenzy.github.io/atom.xml" rel="self"/>
   <link href="http://jolenzy.github.io/"/>
-  <updated>2014-01-27T19:54:45+00:00</updated>
+  <updated>2014-01-31T00:49:21+00:00</updated>
   <id>http://jolenzy.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jovica Ilic]]></name>
     
   </author>
 
@@ -18,6 +18,11 @@
     <updated>2014-01-27T19:53:41+00:00</updated>
     <id>http://jolenzy.github.io/blog/2014/01/27/hello-world</id>
     <content type="html"><![CDATA[<p>Hello world!</p>
+
+<p><a href="https://twitter.com/share" class="twitter-share-button" data-via="jovica">Tweet</a></p>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
 ]]></content>
   </entry>
   
