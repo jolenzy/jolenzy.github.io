@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://jolenzy.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: zapisi
+subtitle: jovica ilic
+author: Jovica Ilic
 simple_search: http://google.com/search
-description:
+description: simple blog
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -69,11 +69,15 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: jovica
+twitter_tweet_count: 7
+twitter_show_replies: false
+twitter_follow_button: false
+twitter_show_follower_count: true
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -97,4 +101,7 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
+
+# Social Service Links
+social_service_links: true
