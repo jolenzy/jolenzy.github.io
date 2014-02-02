@@ -4,7 +4,7 @@
   <title><![CDATA[Записи]]></title>
   <link href="http://jolenzy.github.io/atom.xml" rel="self"/>
   <link href="http://jolenzy.github.io/"/>
-  <updated>2014-02-02T14:15:16+00:00</updated>
+  <updated>2014-02-02T14:28:20+00:00</updated>
   <id>http://jolenzy.github.io/</id>
   <author>
     <name><![CDATA[Jovica Ilic]]></name>
@@ -21,11 +21,16 @@
 
 <p>Данас опет покрећем нови блог, али са другим циљем. Тај циљ за сада остаје тајна.</p>
 
-<p>Блог сам подигао на Октопрес платформи. Како је платофрма релативно нова, нема подршку за друге језике сем енглеског, морао сам да уложим мало напора да би блог био на ћирилици. Колико сам ја успео да сазнам, ово је први блог на Октопрес платформи, писан на српском, и то ћирилицом.</p>
+<p>Блог сам подигао на Октопрес (<a href="http://octopress.org/">Octopress</a>) платформи. Како је платофрма релативно нова, нема подршку за друге језике сем енглеског, морао сам да уложим мало напора да би блог био на ћирилици. Колико сам ја успео да сазнам, ово је први блог на Октопрес платформи, писан на српском, и то ћирилицом.</p>
 
 <p><a href="https://twitter.com/share" class="twitter-share-button" data-via="jovica">Tweet</a></p>
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
+
+
+<div class="fb-share-button" data-href="http://developers.facebook.com/docs/plugins/" data-type="button"></div>
 
 ]]></content>
   </entry>
