@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Неколико речи на почетку"
-date: 2014-01-29 19:53:41 +0000
+date: 2014-02-02 19:53:41 +0000
 comments: true
 footer: true
 categories: генерално 
