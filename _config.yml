@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://jolenzy.github.io
-title: Записи
-subtitle: Јовица Илић
-author: Jovica Ilic
+title: Веб лог
+subtitle: Јовице Илића
+author: Јовица Илић 
 simple_search: http://google.com/search
-description: simple blog
+description: белешке
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

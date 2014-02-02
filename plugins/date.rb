@@ -27,7 +27,7 @@ module Octopress
     # Returns an ordidinal date eg July 22 2007 -> July 22nd 2007
     def ordinalize(date)
       #date = datetime(date)
-      format_date(date, "%a, %e %B %Y")
+      format_date(date, "%a, %e. %B %Y.")
       #format_date(date, "%d %B %Y")
      # "#{date.strftime('%b')} #{ordinal(date.strftime('%e').to_i)}, #{date.strftime('%Y')}"
     end
