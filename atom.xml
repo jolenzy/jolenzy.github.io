@@ -4,7 +4,7 @@
   <title><![CDATA[Записи]]></title>
   <link href="http://jolenzy.github.io/atom.xml" rel="self"/>
   <link href="http://jolenzy.github.io/"/>
-  <updated>2014-02-02T14:28:20+00:00</updated>
+  <updated>2014-02-02T14:30:26+00:00</updated>
   <id>http://jolenzy.github.io/</id>
   <author>
     <name><![CDATA[Jovica Ilic]]></name>
@@ -30,7 +30,7 @@
 
 
 
-<div class="fb-share-button" data-href="http://developers.facebook.com/docs/plugins/" data-type="button"></div>
+<iframe src="http://jolenzy.github.io//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId=89431749395" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px;" allowTransparency="true"></iframe>
 
 ]]></content>
   </entry>
