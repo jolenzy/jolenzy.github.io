@@ -4,7 +4,7 @@
   <title><![CDATA[Category: генерално | Веб лог]]></title>
   <link href="http://jolenzy.github.io/blog/categories/ghienieralno/atom.xml" rel="self"/>
   <link href="http://jolenzy.github.io/"/>
-  <updated>2014-02-02T18:46:53+00:00</updated>
+  <updated>2014-02-02T18:48:01+00:00</updated>
   <id>http://jolenzy.github.io/</id>
   <author>
     <name><![CDATA[Јовица Илић]]></name>
@@ -27,6 +27,11 @@
 <hr />
 
 <p>Podelite clanak sa drugima <a href="https://twitter.com/share" class="twitter-share-button" data-via="jovica" data-size="large">Tweet</a></p>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
+<p>Pratite me na Twitter-u: <a href="https://twitter.com/jovica" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @jovica</a></p>
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
