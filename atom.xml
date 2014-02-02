@@ -4,7 +4,7 @@
   <title><![CDATA[Веб лог]]></title>
   <link href="http://jolenzy.github.io/atom.xml" rel="self"/>
   <link href="http://jolenzy.github.io/"/>
-  <updated>2014-02-02T19:06:18+00:00</updated>
+  <updated>2014-02-02T19:08:51+00:00</updated>
   <id>http://jolenzy.github.io/</id>
   <author>
     <name><![CDATA[Јовица Илић]]></name>
@@ -14,9 +14,9 @@
   
   <entry>
     <title type="html"><![CDATA[Неколико речи на почетку]]></title>
-    <link href="http://jolenzy.github.io/blog/2014/01/27/hello-world/"/>
-    <updated>2014-01-27T19:53:41+00:00</updated>
-    <id>http://jolenzy.github.io/blog/2014/01/27/hello-world</id>
+    <link href="http://jolenzy.github.io/blog/2014/01/29/hello-world/"/>
+    <updated>2014-01-29T19:53:41+00:00</updated>
+    <id>http://jolenzy.github.io/blog/2014/01/29/hello-world</id>
     <content type="html"><![CDATA[<p>Здраво свете :)</p>
 
 <p>До пре око две године, водио сам блог на српском. Тада је у мени нестала потреба и жеља за писањем, па сам од тог блога одустао.</p>
