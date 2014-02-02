@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://jolenzy.github.io
-title: Веб лог
-subtitle: Јовице Илића
+title: Записи
+subtitle: Веб лог Јовице Илића  
 author: Јовица Илић 
 simple_search: http://google.com/search
 description: белешке
@@ -98,7 +98,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-30313642-2
 
 # Facebook Like
 facebook_like: true
